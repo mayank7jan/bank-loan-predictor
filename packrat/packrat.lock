@@ -1,7 +1,7 @@
 PackratFormat: 1.4
 PackratVersion: 0.5.0
 RVersion: 3.5.3
-Repos: CRAN=https://mran.microsoft.com/snapshot/2019-04-15
+Repos: CRAN=https://cran.rstudio.com/
 
 Package: BH
 Source: CRAN
@@ -498,9 +498,9 @@ Requires: rpart
 
 Package: rsconnect
 Source: CRAN
-Version: 0.8.13
-Hash: d93bb8ab6ee93f064771e3d96dd983b9
-Requires: RCurl, jsonlite, openssl, packrat, rstudioapi, yaml
+Version: 0.8.17
+Hash: fa82c75fa8373c556415593140d63a93
+Requires: curl, digest, jsonlite, openssl, packrat, rstudioapi, yaml
 
 Package: rstudioapi
 Source: CRAN
