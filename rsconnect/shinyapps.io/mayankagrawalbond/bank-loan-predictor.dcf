@@ -1,0 +1,13 @@
+name: bank-loan-predictor
+title: bank-loan-predictor
+username:
+account: mayankagrawalbond
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4099478
+bundleId: 4573830
+url: https://mayankagrawalbond.shinyapps.io/bank-loan-predictor/
+when: 1620470324.25617
+lastSyncTime: 1620470324.25617
+asMultiple: FALSE
+asStatic: FALSE

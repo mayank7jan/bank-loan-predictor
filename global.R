@@ -20,7 +20,7 @@ library(DT) # For displaying dataframe in shiny ui #0.5
 library(rsconnect) #0.8.13
 library(iterators) #1.0.10
 library(foreach) # 1.4.4
-library(packrat)
+# library(packrat)
 
 ################################################################################################
 #------------------------------- Custom project functions -------------------------------------#
