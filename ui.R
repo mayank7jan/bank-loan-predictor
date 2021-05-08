@@ -61,13 +61,27 @@ ui <- dashboardPage(
       # Prediction Body UI
       tabItem(
         tabName = "dashboard",
-        h2(tags$b("Make predictions for new customers:")),
+        fluidRow(
+          column(width = 10,
+                 h2(tags$b("Make predictions for new customers:"))),
+          column(
+            width = 2,
+            shiny::actionButton(
+              inputId = 'git-hub',
+              class = "pull-right",
+              style = "background: #f0f3ff; border-radius: 50%; box-shadow: 6px 6px 10px -1px rgb(0 0 0 / 15%), -6px -6px 10px -1px rgb(255 255 255 / 70%);",
+              label = NULL,
+              icon = icon("github"),
+              onclick ="window.open('https://github.com/mayank7jan/bank-loan-predictor')"
+            )
+          )
+        ),
+        
         
         fluidRow(
           valueBoxOutput("dt_cust_pred_ui"),
           valueBoxOutput("lr_cust_pred_ui"),
           valueBoxOutput("knn_cust_pred_ui")
-          
         ),
         
         fluidRow(
