@@ -4,7 +4,7 @@
 <!-- badges: start -->
 
 [![Website
-shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://mayankagrawalbond.shinyapps.io/bank-loan-predictor/?_ga=2.43787621.1585505381.1620456629-490162545.1601963405)
+shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://mayankagrawalbond.shinyapps.io/bank-loan-predictor/)
 [![made-with-Rshiny](https://img.shields.io/badge/Made%20with-RShiny-blue?style=plastic&logo=r)](https://shiny.rstudio.com/)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
@@ -144,9 +144,9 @@ and change his/her loan offer accordingly in real time.
 ## Website
 
 The Data Science dashbaord is deployed and live at
-[shinyapps.io](https://mayankagrawalbond.shinyapps.io/bank-loan-predictor/?_ga=2.47399015.1585505381.1620456629-490162545.1601963405)
+[shinyapps.io](https://mayankagrawalbond.shinyapps.io/bank-loan-predictor/)
 
-## Dashboard Screenshots
+## [Dashboard Screenshots](https://mayankagrawalbond.shinyapps.io/bank-loan-predictor/)
 
 ![prediction-page](images/prediction.png)
 
