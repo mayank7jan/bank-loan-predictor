@@ -69,14 +69,16 @@ ui <- dashboardPage(
             shiny::actionButton(
               inputId = 'git-hub',
               class = "pull-right",
-              style = "background: #f0f3ff; border-radius: 50%; box-shadow: 6px 6px 10px -1px rgb(0 0 0 / 15%), -6px -6px 10px -1px rgb(255 255 255 / 70%);",
+              # style = "background: #f0f3ff; border-radius: 50%; box-shadow: 6px 6px 10px -1px rgb(0 0 0 / 15%), -6px -6px 10px -1px rgb(255 255 255 / 70%);",
+              style = "width: 4.5rem; height: 4.5rem; box-shadow:6px 6px 12px #b8b9be, -6px -6px 12px #fff !important; border-radius: 50%; border-color: #D1D9E6; border: .0625rem solid #fafbfe; ", 
               label = NULL,
-              icon = icon("github"),
+              icon = icon("github fa-lg"),
               onclick ="window.open('https://github.com/mayank7jan/bank-loan-predictor')"
             )
           )
         ),
-        
+        ## Reference neomorphism button style
+        # https://themesberg.com/docs/neumorphism-ui/components/icon-boxes/
         
         fluidRow(
           valueBoxOutput("dt_cust_pred_ui"),
