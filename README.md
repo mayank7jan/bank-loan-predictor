@@ -148,20 +148,20 @@ The Data Science dashbaord is deployed and live at
 
 ## [Dashboard Screenshots](https://mayankagrawalbond.shinyapps.io/bank-loan-predictor/)
 
-![prediction-page](images/prediction.png)
+[![prediction-page](images/prediction.png)](https://mayankagrawalbond.shinyapps.io/bank-loan-predictor/)
 
-![prediction-calc-page](images/prediction_calc.png)
+[![prediction-calc-page](images/prediction_calc.png)](https://mayankagrawalbond.shinyapps.io/bank-loan-predictor/)
 
-![decisionTree-summary-page](images/dtSummary.png)
+[![decisionTree-summary-page](images/dtSummary.png)](https://mayankagrawalbond.shinyapps.io/bank-loan-predictor/)
 
-![decisionTree-accuracy-page](images/dtAM.png)
+[![decisionTree-accuracy-page](images/dtAM.png)](https://mayankagrawalbond.shinyapps.io/bank-loan-predictor/)
 
-![logistic-regression-page](images/lr.png)
+[![logistic-regression-page](images/lr.png)](https://mayankagrawalbond.shinyapps.io/bank-loan-predictor/)
 
-![knn-page](images/knn.png)
+[![knn-page](images/knn.png)](https://mayankagrawalbond.shinyapps.io/bank-loan-predictor/)
 
-![dataset-page](images/dataset.png)
+[![dataset-page](images/dataset.png)](https://mayankagrawalbond.shinyapps.io/bank-loan-predictor/)
 
-![attribute-page](images/attr.png)
+[![attribute-page](images/attr.png)](https://mayankagrawalbond.shinyapps.io/bank-loan-predictor/)
 
-![glossary-page](images/glossary.png)
+[![glossary-page](images/glossary.png)](https://mayankagrawalbond.shinyapps.io/bank-loan-predictor/)
