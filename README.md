@@ -145,3 +145,23 @@ and change his/her loan offer accordingly in real time.
 
 The Data Science dashbaord is deployed and live at
 [shinyapps.io](https://mayankagrawalbond.shinyapps.io/bank-loan-predictor/?_ga=2.47399015.1585505381.1620456629-490162545.1601963405)
+
+## Dashboard Screenshots
+
+![prediction-page](images/prediction.png)
+
+![prediction-calc-page](images/prediction_calc.png)
+
+![decisionTree-summary-page](images/dtSummary.png)
+
+![decisionTree-accuracy-page](images/dtAM.png)
+
+![logistic-regression-page](images/lr.png)
+
+![knn-page](images/knn.png)
+
+![dataset-page](images/dataset.png)
+
+![attribute-page](images/attr.png)
+
+![glossary-page](images/glossary.png)
